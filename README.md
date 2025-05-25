@@ -2,6 +2,8 @@
 
 This project develops and evaluates several machine learning models to accurately predict the diagnosis (malignant or benign) of a breast tumor based on physical characteristics. It was initially created as a final project for *DAT 350: Data Management and Data Science* and later polished for improved performance.
 
+Colab link: https://colab.research.google.com/drive/1PQXJYlSIaBWE-YCAGOBnnuH4eMikPoTf?usp=sharing
+
 ## Project Overview
 
 The primary goal is to apply machine learning techniques on a breast cancer dataset to:
