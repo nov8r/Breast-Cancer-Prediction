@@ -57,6 +57,7 @@ Performed tasks include:
 
 **Class Distribution**:  
 ![Class Distribution](https://github.com/nov8r/Breast-Cancer-Prediction/blob/main/Visualizations/class_distribution.png)  
+
 **Correlation Matrix**:  
 ![Correlation Matrix](https://github.com/nov8r/Breast-Cancer-Prediction/blob/main/Visualizations/correlation_matrix_small.png)
 
